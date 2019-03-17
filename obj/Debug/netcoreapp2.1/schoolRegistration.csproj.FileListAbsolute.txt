@@ -1,0 +1,14 @@
+C:\Users\Mohamed Ali\Desktop\schoolRegistration\bin\Debug\netcoreapp2.1\schoolRegistration.deps.json
+C:\Users\Mohamed Ali\Desktop\schoolRegistration\bin\Debug\netcoreapp2.1\schoolRegistration.runtimeconfig.json
+C:\Users\Mohamed Ali\Desktop\schoolRegistration\bin\Debug\netcoreapp2.1\schoolRegistration.runtimeconfig.dev.json
+C:\Users\Mohamed Ali\Desktop\schoolRegistration\bin\Debug\netcoreapp2.1\schoolRegistration.dll
+C:\Users\Mohamed Ali\Desktop\schoolRegistration\bin\Debug\netcoreapp2.1\schoolRegistration.pdb
+C:\Users\Mohamed Ali\Desktop\schoolRegistration\obj\Debug\netcoreapp2.1\schoolRegistration.csprojAssemblyReference.cache
+C:\Users\Mohamed Ali\Desktop\schoolRegistration\obj\Debug\netcoreapp2.1\schoolRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Ali\Desktop\schoolRegistration\obj\Debug\netcoreapp2.1\schoolRegistration.RazorAssemblyInfo.cache
+C:\Users\Mohamed Ali\Desktop\schoolRegistration\obj\Debug\netcoreapp2.1\schoolRegistration.RazorAssemblyInfo.cs
+C:\Users\Mohamed Ali\Desktop\schoolRegistration\obj\Debug\netcoreapp2.1\schoolRegistration.AssemblyInfoInputs.cache
+C:\Users\Mohamed Ali\Desktop\schoolRegistration\obj\Debug\netcoreapp2.1\schoolRegistration.AssemblyInfo.cs
+C:\Users\Mohamed Ali\Desktop\schoolRegistration\obj\Debug\netcoreapp2.1\schoolRegistration.RazorTargetAssemblyInfo.cache
+C:\Users\Mohamed Ali\Desktop\schoolRegistration\obj\Debug\netcoreapp2.1\schoolRegistration.dll
+C:\Users\Mohamed Ali\Desktop\schoolRegistration\obj\Debug\netcoreapp2.1\schoolRegistration.pdb
