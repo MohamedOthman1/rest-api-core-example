@@ -13,6 +13,7 @@ using schoolRegistration.Models;
 using schoolRegistration.Repositories;
 
 namespace schoolRegistration.Controllers {
+    [AllowAnonymous]
     [Route ("api/[controller]")]
     public class AuthController : Controller {
         private readonly IConfiguration _config;
