@@ -1,4 +1,4 @@
-# Student Registration System - Web Api In Asp.Net Core 2.1
+# Student Registration System - Web Api with Asp.Net Core 2.1
 ## Functionalities : 
 * CRUD operation on students and courses
 * Course can contain a maximum number of 3 students
